@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning Python.<br>🎯 Goals: Data Scientist, Ethical Hacker, Python Developer.<br>🎲 Fun fact: Food is my love.</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning Python.<br>🎯 Goals: Data Scientist, Python Developer, Full Stack Developer.<br>🎲 Fun fact: Food is my love.</p>
 
 ###
 
