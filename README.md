@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Muhammad Umer and I'm a Data Science Enthusiast from Pakistan.</p>
+<p align="left">My name is Muhammad Umer and I'm a Data Science & AI Enthusiast from Pakistan.</p>
 
 ###
 
